@@ -1,4 +1,4 @@
-PASSWORD= "JwL7hDCepzLxk$8"
-HOST= "nkromantte.mysql.pythonanywhere-services.com"
-USERNAME="nkromantte"
-DATABASE="nkromantte$miapp"
+PASSWORD= "dadadasdadadadasdsadas"
+HOST= "sadsadasdasdsadasdasdasdsadasdsadasdsa"
+USERNAME="asdasdasdsadsadsadasdasdasdas"
+DATABASE="asddsadasdasdasdasdasdasdasdsadas"
